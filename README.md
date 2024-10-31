@@ -8,17 +8,18 @@
 ## Projects
 ### [dj_library][https://github.com/kr37577/dj_library]
 #### サービス概要
-DJに向けて楽曲の推薦と最適なプレイリストの提案を行うプレイリスト作成アプリです．
-サポーターズのハッカソンでチーム開発を行いました．URLから詳しい説明をご覧いただけます．
+DJに向けて楽曲の推薦と最適なプレイリストの提案を行うプレイリスト作成アプリです．<br>
+サポーターズのハッカソンでチーム開発を行いました．URLから詳しい説明をご覧いただけます．<br>
 
 
 ### [trainigtracker][https://training-9fsdd1qj2-kr37577s-projects.vercel.app/auth]
 #### 概要
-トレーニングを記録を行うアプリケーションです．
-初めて個人でフルスタック開発を行いました．データベースはpostglesql，ORMとしてPrisma，フロントエンド・バックエンドとしてNext.js，Typescriptを使いました．
-テストアカウント
-test@gmail.com
-
+トレーニングを記録を行うアプリケーションです．<br>
+初めて個人でフルスタック開発を行いました．<br>
+データベースはpostglesql，ORMとしてPrisma，フロントエンド・バックエンドとしてNext.js，Typescriptを使いました．
+- テストアカウント<br>
+mail test@gmail.com <br>
+pass 111 <br>
 
 
 
