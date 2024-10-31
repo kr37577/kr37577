@@ -13,7 +13,7 @@ DJに向けて楽曲の推薦と最適なプレイリストの提案を行うプ
 
 
 ### [trainigtracker][https://training-dd10fut0h-kr37577s-projects.vercel.app/auth]
-####　概要
+#### 概要
 トレーニングを記録を行うアプリケーションです．
 初めて個人でフルスタック開発を行いました．データベースはpostglesql，ORMとしてPrisma，フロントエンド・バックエンドとしてNext.js，Typescriptを使いました．
 
