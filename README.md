@@ -12,10 +12,14 @@ DJに向けて楽曲の推薦と最適なプレイリストの提案を行うプ
 サポーターズのハッカソンでチーム開発を行いました．URLから詳しい説明をご覧いただけます．
 
 
-### [trainigtracker][https://training-dd10fut0h-kr37577s-projects.vercel.app/auth]
+### [trainigtracker][https://training-9fsdd1qj2-kr37577s-projects.vercel.app/auth]
 #### 概要
 トレーニングを記録を行うアプリケーションです．
 初めて個人でフルスタック開発を行いました．データベースはpostglesql，ORMとしてPrisma，フロントエンド・バックエンドとしてNext.js，Typescriptを使いました．
+テストアカウント
+test@gmail.com
+
+
 
 
 
