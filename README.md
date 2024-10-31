@@ -1,8 +1,12 @@
 # My-profile
 
+## Skills
 - **Languages**: JavaScript, Python, C, Rust
 - **Frameworks**: Next.js,Typescript, React, Node.js, Django,
 - **Tools**: Git, Docker, VS Code
+
+## Projects
+### [dj_library]([(https://github.com/kr37577/dj_library])
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr37577&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
