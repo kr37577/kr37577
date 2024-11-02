@@ -1,8 +1,8 @@
 # My-profile
 
 ## Skills
-- **Languages**: JavaScript, Python, C, Rust
-- **Frameworks**: Next.js,Typescript, React, Node.js, Django,
+- **Languages**: Typescript, JavaScript, Python, C, Rust
+- **Frameworks**: Next.js, React, Node.js, Django,
 - **Tools**: Git, Docker, VS Code
 
 ## Projects
