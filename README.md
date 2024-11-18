@@ -1,9 +1,7 @@
 # My-profile
 
 ## Skills
-- **Languages**: Typescript, JavaScript, Python, C, Rust
-- **Frameworks**: Next.js, React, Node.js, Django,
-- **Tools**: Git, Docker, VS Code
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,typescript,prisma,py,selenium,c,cpp)](https://skillicons.dev)
 
 ## Projects
 ### [dj_library][https://github.com/kr37577/dj_library]
