@@ -1,4 +1,4 @@
-# My-profile
+# profile
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,typescript,prisma,py,selenium,c,cpp)](https://skillicons.dev)
